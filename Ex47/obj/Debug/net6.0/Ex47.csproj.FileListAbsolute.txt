@@ -1,0 +1,15 @@
+C:\Users\Vera Belkova\OneDrive\Рабочий стол\Обучение GeekBrains\Course 3. Языки програмирования\Home_Work_3003\Ex47\obj\Debug\net6.0\Ex47.csproj.AssemblyReference.cache
+C:\Users\Vera Belkova\OneDrive\Рабочий стол\Обучение GeekBrains\Course 3. Языки програмирования\Home_Work_3003\Ex47\obj\Debug\net6.0\Ex47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vera Belkova\OneDrive\Рабочий стол\Обучение GeekBrains\Course 3. Языки програмирования\Home_Work_3003\Ex47\obj\Debug\net6.0\Ex47.AssemblyInfoInputs.cache
+C:\Users\Vera Belkova\OneDrive\Рабочий стол\Обучение GeekBrains\Course 3. Языки програмирования\Home_Work_3003\Ex47\obj\Debug\net6.0\Ex47.AssemblyInfo.cs
+C:\Users\Vera Belkova\OneDrive\Рабочий стол\Обучение GeekBrains\Course 3. Языки програмирования\Home_Work_3003\Ex47\obj\Debug\net6.0\Ex47.csproj.CoreCompileInputs.cache
+C:\Users\Vera Belkova\OneDrive\Рабочий стол\Обучение GeekBrains\Course 3. Языки програмирования\Home_Work_3003\Ex47\bin\Debug\net6.0\Ex47.exe
+C:\Users\Vera Belkova\OneDrive\Рабочий стол\Обучение GeekBrains\Course 3. Языки програмирования\Home_Work_3003\Ex47\bin\Debug\net6.0\Ex47.deps.json
+C:\Users\Vera Belkova\OneDrive\Рабочий стол\Обучение GeekBrains\Course 3. Языки програмирования\Home_Work_3003\Ex47\bin\Debug\net6.0\Ex47.runtimeconfig.json
+C:\Users\Vera Belkova\OneDrive\Рабочий стол\Обучение GeekBrains\Course 3. Языки програмирования\Home_Work_3003\Ex47\bin\Debug\net6.0\Ex47.dll
+C:\Users\Vera Belkova\OneDrive\Рабочий стол\Обучение GeekBrains\Course 3. Языки програмирования\Home_Work_3003\Ex47\bin\Debug\net6.0\Ex47.pdb
+C:\Users\Vera Belkova\OneDrive\Рабочий стол\Обучение GeekBrains\Course 3. Языки програмирования\Home_Work_3003\Ex47\obj\Debug\net6.0\Ex47.dll
+C:\Users\Vera Belkova\OneDrive\Рабочий стол\Обучение GeekBrains\Course 3. Языки програмирования\Home_Work_3003\Ex47\obj\Debug\net6.0\refint\Ex47.dll
+C:\Users\Vera Belkova\OneDrive\Рабочий стол\Обучение GeekBrains\Course 3. Языки програмирования\Home_Work_3003\Ex47\obj\Debug\net6.0\Ex47.pdb
+C:\Users\Vera Belkova\OneDrive\Рабочий стол\Обучение GeekBrains\Course 3. Языки програмирования\Home_Work_3003\Ex47\obj\Debug\net6.0\Ex47.genruntimeconfig.cache
+C:\Users\Vera Belkova\OneDrive\Рабочий стол\Обучение GeekBrains\Course 3. Языки програмирования\Home_Work_3003\Ex47\obj\Debug\net6.0\ref\Ex47.dll
